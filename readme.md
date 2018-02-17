@@ -9,7 +9,7 @@ Use [husky](https://www.npmjs.com/package/husky) to connect the scripts to git h
 
 Usage:
 
-1. npm i husky smart-update --save-dev
+1. npm i husky @amiram/smart-update --save-dev
 2. Add scripts in package.json
 
 <pre>

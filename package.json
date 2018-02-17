@@ -1,6 +1,6 @@
 {
-  "name": "smart-update",
-  "version": "1.0.0",
+  "name": "@amiram/smart-update",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": "bin/smart-update",
