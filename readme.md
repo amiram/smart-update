@@ -1,8 +1,9 @@
-#smart-update
+# smart-update
 
 Update npm packages after git merge/pull only if dependencies were changed.
 
-##Background
+## Background
+
 Suppose you did "git pull" and your package.json was changed. You'll probably want to run `npm update`. However, you'd like to do it only if the `dependencies` or `devDependencies` sections were changed. This package will examine also the content of the dependencies and compare the old and new ones.
 
 Use [husky](https://www.npmjs.com/package/husky) to connect the scripts to git hooks.
