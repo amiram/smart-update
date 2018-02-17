@@ -1,0 +1,12 @@
+{
+  "name": "smart-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/smart-update",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Amiram Korach",
+  "license": "MIT"
+}
