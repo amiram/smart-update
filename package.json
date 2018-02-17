@@ -1,12 +1,27 @@
 {
   "name": "@amiram/smart-update",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": "bin/smart-update",
   "scripts": {
     "test": "exit 0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiram/smart-update.git"
+  },
+  "keywords": [
+    "npm",
+    "update",
+    "git",
+    "hooks",
+    "husky"
+  ],
+  "bugs": {
+    "url": "https://github.com/amiram/smart-update/issues"
+  },
+  "homepage": "https://github.com/amiram/smart-update#readme",
   "author": "Amiram Korach",
   "license": "MIT"
 }
