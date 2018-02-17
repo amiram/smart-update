@@ -8,7 +8,7 @@ Suppose you did "git pull" and your package.json was changed. You'll probably wa
 
 Use [husky](https://www.npmjs.com/package/husky) to connect the scripts to git hooks.
 
-Usage:
+## Usage:
 
 1. npm i husky @amiram/smart-update --save-dev
 2. Add scripts in package.json
