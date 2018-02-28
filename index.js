@@ -8,7 +8,7 @@ const sourceVersion = diffTree[2];
 const currentVersion = diffTree[3];
 
 if (!sourceVersion || !currentVersion || sourceVersion === currentVersion) {
-  console.log('No changes to dependencies detected');
+    console.log('No changes to dependencies detected');
   process.exit(0);
 }
 
